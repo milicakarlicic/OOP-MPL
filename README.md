@@ -2,9 +2,9 @@
 Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijentisano programiranje na Matematičkom fakultetu za MNVL smjerove.
 
 ## Materijali
-  - čas01: Uvod u programski jezik *Java*
-  - čas02: Nizovi, matrice, niske
-  - čas03: Niske - nastavak, *StringBuilder*; Klase i objekti
+  - čas01: Uvod u programski jezik *Java*.
+  - čas02: Nizovi. Matrice. Niske.
+  <!--- čas03: Niske - nastavak, *StringBuilder*; Klase i objekti
   - čas04: Konstruktor kopije, statičke promenljive i metode, nasleđivanje
   - čas05: Apstraktne klase, polimorfizam
   - čas06: Interfejsi; Enumi
@@ -16,4 +16,4 @@ Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijent
   - čas12: *JavaFX*
   - čas13: Ispitni rok - Septembar 3 2019/2020
 
-Napomena: Ako imate problema sa korišćenjem *JavaFX* biblioteke, pratite uputstvo za podešavanje sa [linka](https://www.youtube.com/watch?v=Ope4icw6bVk).
+Napomena: Ako imate problema sa korišćenjem *JavaFX* biblioteke, pratite uputstvo za podešavanje sa [linka](https://www.youtube.com/watch?v=Ope4icw6bVk). -->
