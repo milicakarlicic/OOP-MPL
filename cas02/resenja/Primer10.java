@@ -1,18 +1,16 @@
-package cas03;
+package cas02;
 
-public class Zadatak5 {
+public class Primer10 {
 
     public static void main(String[] args) {
         Scanner ulaz = new Scanner(System.in);
 
         String linija = ulaz.nextLine();
-
         System.out.println("original: " + linija);
 
-        char[] pom = linija.toCharArray();
-        Arrays.sort(pom);
-        linija = String.valueOf(pom);
-        System.out.println("sortirana: " + linija);
+        System.out.println("sva velika slova: " + linija.toUpperCase());
+
+        System.out.println("bez belina: " + linija.replace(" ", ""));
 
         ulaz.close();
     }
