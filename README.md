@@ -5,7 +5,7 @@ Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijent
   - čas01: Uvod u programski jezik *Java*.
   - čas02: Nizovi. Matrice. Niske.
   - čas03: Niske - nastavak. *StringBuilder*. Klase i objekti.
-  - čas04: Statičke promenljive i metode. Nasleđivanje.
+  - čas04: Statička polja i metode. Nasleđivanje.
 <!---  - čas05: Konstruktor kopije, Apstraktne klase, polimorfizam
   - čas06: Interfejsi; Enumi
   - čas07: Izuzeci; Kloniranje (metod *clone*)
