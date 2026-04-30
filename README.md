@@ -1,13 +1,13 @@
 # OOP-MNVL
-Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijentisano programiranje na Matematičkom fakultetu za MNVL smjerove.
+Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijentisano programiranje na Matematičkom fakultetu za MPL smjerove.
 
 ## Materijali
   - čas01: Uvod u programski jezik *Java*.
   - čas02: Nizovi. Matrice. Niske.
   - čas03: Niske - nastavak. *StringBuilder*. Klase i objekti.
   - čas04: Statička polja i metode. Nasleđivanje.
-<!---  - čas05: Konstruktor kopije, Apstraktne klase, polimorfizam
-  - čas06: Interfejsi; Enumi
+  - čas05: Konstruktor kopije. Apstraktne klase. Polimorfizam.
+<!---   - čas06: Interfejsi; Enumi
   - čas07: Izuzeci; Kloniranje (metod *clone*)
   - čas08: Generičke klase i metode
   - čas09: Generičke kolekcije
