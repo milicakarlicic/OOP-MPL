@@ -1,4 +1,4 @@
-package cas05.zadatak03;
+package cas04.zadatak03;
 
 public class Trougao extends Oblik {
     private Tacka a;
@@ -7,9 +7,9 @@ public class Trougao extends Oblik {
 
     public Trougao(Tacka centar, Tacka a, Tacka b, Tacka c) {
         super(centar);
-        this.a = new Tacka(a);
-        this.b = new Tacka(b);
-        this.c = new Tacka(c);
+        this.a = a;
+        this.b = b;
+        this.c = c;
     }
 
     @Override

@@ -1,4 +1,4 @@
-package cas05.zadatak03;
+package cas04.zadatak03;
 
 public class Krug extends Elipsa {
     public Krug(Tacka centar, double r) {
