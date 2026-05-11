@@ -8,7 +8,7 @@ Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijent
   - čas04: Statička polja i metode. Nasleđivanje.
   - čas05: Konstruktor kopije. Apstraktne klase. Polimorfizam.
   - čas06: Interfejsi. Enumi.
-  - čas07: Izuzeci. Interfejs _Cloneable_
+  - čas07: Izuzeci. Interfejs _Cloneable_.
  <!---  - čas08: Generičke klase i metode
   - čas09: Generičke kolekcije
   - čas10: Poređenje objekata - interfejsi *Comparable* i *Comparator*
