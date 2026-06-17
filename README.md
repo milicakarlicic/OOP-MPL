@@ -1,4 +1,4 @@
-# OOP-MNVL
+# OOP-MPL
 Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijentisano programiranje na Matematičkom fakultetu za MPL smjerove.
 
 ## Materijali
