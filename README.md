@@ -14,6 +14,4 @@ Repozitorijum sadrži materijale sa časova vježbi iz predmeta Objektno-orijent
   - čas10: Poređenje objekata - interfejsi *Comparable* i *Comparator*.
   - čas11: Datoteke - NIO i IO pristup.
   - čas12: Grafičko korisničko okruženje - _JavaFX_.
-  <!-- - čas13: Ispitni rok - Septembar 3 2019/2020
-
-Napomena: Ako imate problema sa korišćenjem *JavaFX* biblioteke, pratite uputstvo za podešavanje sa [linka](https://www.youtube.com/watch?v=Ope4icw6bVk). -->
+  - čas13: Primer roka.
